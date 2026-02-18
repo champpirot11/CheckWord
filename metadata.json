@@ -1,0 +1,5 @@
+{
+  "name": "Thai Proofreader AI",
+  "description": "An intelligent Thai language proofreader and editor powered by Gemini 2.5 Flash. Corrects spelling, grammar, and spacing while preserving tone.",
+  "requestFramePermissions": []
+}
